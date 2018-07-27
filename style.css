@@ -1,0 +1,19 @@
+#title {
+  background-color: PaleTurquoise;
+}
+
+#video_game_section {
+  background-color: violet;
+}
+
+#video_game {
+  background-color: red;
+  height: 50px;
+  width: 150px;
+  font-size: 18px;
+}
+
+#game {
+  font-size: 25px;
+  color: blue;
+}
